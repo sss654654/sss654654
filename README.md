@@ -1,26 +1,30 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=timeGradient&height=100&section=header&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=timeGradient&height=120&section=header&fontSize=90)
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zed6740@dankook.ac.kr)](mailto:zed6740@dankook.ac.kr)
+
 
 <div align = "center">
-
+ 
 <br/>
-<h3> 열심히 코딩중입니다 🥳</h3>
+<h2> Hello, My name is Subin. :blush:</h2>
+<h4> I've been studying Programming for one year and a harf :baby_chick: <h4>
+<h4> You know, there is so much to learn in fileds of programming... :joy:<h4>
+<h4> I'm studying my best in dankook university <h4>
+<h4> I'm not good enough yet, but I want to be a game developer in the future! :video_game: <h4>
 <br/>
 
+ 
+<br/>
+ 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sss654654&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sss654654&layout=compact&theme=dracula)](https://github.com/metleeha)
-
-
+ 
+<br/>
+ ﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏
 
 <br/><br/>
+<h3>✨ My Interest ✨</h3>  
 
-
-
- 
-  
-﹏﹏﹏﹏﹏﹏﹏
 
 <br/><br/>
  
@@ -44,6 +48,14 @@
 <br>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 
+
+<br/><br/><br/>
+<h4>💬My Mail💬</h4>
+
+ [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zed6740@dankook.ac.kr)](mailto:zed6740@dankook.ac.kr)
+ 
+<br/><br/>
+ 
 </div>
 
 <br/>
