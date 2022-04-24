@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=timeGradient&height=100&section=header&fontSize=90)
 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zed6740@dankook.ac.kr)](mailto:zed6740@dankook.ac.kr)
 
 <div align = "center">
 
