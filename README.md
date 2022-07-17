@@ -6,10 +6,10 @@
  
 <br/>
 <h2> Hello, My name is Subin. :blush:</h2>
+<h4> I'm studying my best in dankook university <h4>
 <h4> I've been studying Programming for one year and a harf :baby_chick: <h4>
 <h4> You know, there is so much to learn in fileds of programming... :joy:<h4>
-<h4> I'm studying my best in dankook university <h4>
-<h4> I'm not good enough yet, but I want to be a game developer in the future! :video_game: <h4>
+<h4> I'm not good enough yet, but I am doing my best in my current position. <h4>
 <br/>
 
  
