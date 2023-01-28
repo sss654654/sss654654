@@ -1,13 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=timeGradient&height=120&section=header&fontSize=90)
 
-
-
 <div align = "center">
-<br/>
 <h2> Hello, My name is Subin. :blush:</h2>
 <h4> I' a student at Dankook University. <h4>
 <h4> I'm not good enough yet, but I am doing my best in my current position. <h4>
-<br/>
 
  ﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏
 
@@ -37,7 +33,7 @@
 
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:subinhong0109@dankook.ac.kr)](mailto:subinhong0109@dankook.ac.kr)
  
-<br/
+<br/>
  
 </div>
 
