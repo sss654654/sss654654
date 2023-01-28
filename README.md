@@ -3,7 +3,7 @@
 <div align = "center">
 <h2> Hello, My name is Subin. :blush:</h2>
 <h4> I' a student at Dankook University. <h4>
-<h4> I'm not good enough yet, but I am doing my best in my current position. <h4>
+<h4> I am doing my best in my current position. <h4>
 
  ﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏
 
@@ -27,8 +27,7 @@
 <br>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 
-
-<br/><br/>
+<br/>
 <h4>💬My Mail💬</h4>
 
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:subinhong0109@dankook.ac.kr)](mailto:subinhong0109@dankook.ac.kr)
