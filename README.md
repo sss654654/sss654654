@@ -35,7 +35,7 @@
 <br/><br/>
 <h4>💬My Mail💬</h4>
 
- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zed6740@dankook.ac.kr)](mailto:zed6740@dankook.ac.kr)
+ [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:subinhong0109@dankook.ac.kr)](mailto:subinhong0109@dankook.ac.kr)
  
 <br/
  
