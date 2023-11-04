@@ -3,7 +3,7 @@
 <div align = "center">
 <h2> Hello, My name is Subin. :blush:</h2>
  
-<h4> I' a student at Dankook University. <h4>
+<h4> My goal is to study every day!. <h4>
 
 <br/>
 <h4>💬My Mail💬</h4>
