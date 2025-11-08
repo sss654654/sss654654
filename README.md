@@ -22,7 +22,7 @@ AWS SAP 준비 중이며, CloudNative Professional 스터디 그룹을 리딩하
       <p>학습 내용을 정리하는 기술 블로그</p>
     </td>
     <td width="50%" align="center">
-      <img width="917" height="835" alt="독서" src="https://github.com/user-attachments/assets/dea61854-52d6-4b62-9998-d5dca159ace4" />
+      <img width="1037" height="700" alt="독서" src="https://github.com/user-attachments/assets/dea61854-52d6-4b62-9998-d5dca159ace4" />
       <p>꾸준히 기록하는 독서의 흔적들</p>
     </td>
   </tr>
