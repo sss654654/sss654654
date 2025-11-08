@@ -1,4 +1,4 @@
-<img width="1037" height="700" alt="공부" src="https://github.com/user-attachments/assets/c5f756fb-ae5a-4528-ac04-5e9bc705982b" /># Hi there, I'm Subin 👋
+## Hi there, I'm Subin 👋
 
 **Blog:** https://zed6740.tistory.com/  
 **Email:** subinhong0109@dankook.ac.kr
@@ -11,7 +11,7 @@
 현재는 AWS 전문성을 쌓으며 클라우드 엔지니어링에 집중하고 있습니다.
 
 통학 시간에도 책을 읽으며 학습하고, 기술 블로그에 학습 내용과 독서록을 꾸준히 기록합니다.  
-AWS SAP 준비 중이며, AWS 자격증 취득 목적인 CloudNative Professional 스터디 그룹을 리딩하고 있습니다.
+AWS SAP 준비 중이며, CloudNative Professional 스터디 그룹을 리딩하고 있습니다.
 
 <table>
   <tr>
