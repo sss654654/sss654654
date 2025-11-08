@@ -1,4 +1,4 @@
-### Hi there, I'm Subin 👋
+# Hi there, I'm Subin 👋
 
 **Blog:** https://zed6740.tistory.com/  
 **Email:** subinhong0109@dankook.ac.kr
@@ -20,7 +20,7 @@ AWS SAP 준비 중이며, CloudNative Professional 스터디 그룹을 리딩하
       <p>학습 내용을 정리하는 기술 블로그</p>
     </td>
     <td width="50%" align="center">
-      <img width="1072" height= "700" alt="책책" src="https://github.com/user-attachments/assets/59a038f9-9dc8-4a8b-bd25-a3aabe102dc6" />
+      <img width="948" height="653" alt="책책책" src="https://github.com/user-attachments/assets/434ef7b3-9361-4cc2-9d2c-3f86cedfa915" />
       <p>꾸준히 기록하는 독서의 흔적들</p>
     </td>
   </tr>
