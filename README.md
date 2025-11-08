@@ -4,8 +4,8 @@
 
 ### 🎓 Software Engineering Student & Cloud Enthusiast
 
-**Blog:** [https://zed6740.tistory.com/](https://zed6740.tistory.com/)  
-**Email:** subinhong0109@dankook.ac.kr
+📝 **Blog:** [https://zed6740.tistory.com/](https://zed6740.tistory.com/)  
+📧 **Email:** subinhong0109@dankook.ac.kr
 
 </div>
 
@@ -35,12 +35,12 @@
 │  2021         편입학원 + 학은제 병행                                        │
 │    └─────────> 단국대학교 소프트웨어학과 3학년 편입                            │
 │                                                                          │
-│  2022         소프트웨어 기초 학습                                          │
-│    ├─────────> 동아리 QR 출석 관리 프로그램 개발                             │
+│  2022.03-06   동아리 QR 출석 관리 어플리케이션 개발                          │
+│                                                                          │
+│  2022.07-12   LevelDB Cache 구조 분석 프로젝트                             │
 │    └─────────> SQLD 취득                                                 │
 │                                                                          │
-│  2023         LevelDB Cache 구조 분석 프로젝트                             │
-│    ├─────────> 리눅스마스터 2급 취득                                        │
+│  2023         리눅스마스터 2급 취득                                         │
 │    └─────────> ⚔️  입대                                                  │
 │                                                                          │
 │  2023-2024    군 복무                                                     │
