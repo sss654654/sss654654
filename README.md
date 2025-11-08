@@ -1,6 +1,4 @@
-Hi there, I'm Subin 👋
-
-<br/>
+### Hi there, I'm Subin 👋
 
 **Blog:** https://zed6740.tistory.com/  
 **Email:** subinhong0109@dankook.ac.kr
@@ -53,8 +51,3 @@ AWS SAP 준비 중이며, CloudNative Professional 스터디 그룹을 리딩하
                AWS Solutions Architect Professional 준비 중
 ```
 
----
-
-## Pinned Projects
-
-추가 예정
