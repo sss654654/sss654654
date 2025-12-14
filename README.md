@@ -46,7 +46,6 @@
 2025.05        전역
 2025.06-09     CJ 올리브네트웍스 클라우드웨이브 6기 수료
 2025.09        AWS Developer Associate 취득
-2025.09-       CloudNative Professional 스터디 그룹 리딩
-               AWS Solutions Architect Professional 준비 중
+2025.09-       단국대학교 재학 중
 ```
 
