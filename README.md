@@ -26,7 +26,8 @@
 네트워크   Calico · MetalLB(L2) · Traefik · NetworkPolicy 출처 지정
 배포       GitLab CI 5단 게이트 → 불변 태그 → Argo CD 롤아웃 → 태그 write-back
 관측       Alloy → Mimir · Loki · Tempo → Grafana (대시보드 4장, as-code)
-시크릿     Sealed Secrets 14종 — 암호문만 Git 에
+시크릿     Sealed Secrets 15종 — 암호문만 Git 에
+부하       k6 판 21회 — 사용자 10,000명 통과 · 정원 500 · 파드 스펙을 실측으로 확정
 ```
 
 | 저장소 | 내용 |
@@ -34,7 +35,7 @@
 | **[cgv-infra](https://github.com/sss654654/cgv-infra)** | 인프라. 노드 프로비저닝 · 플랫폼 부트스트랩 · Argo CD GitOps · LGTM 관측 스택 |
 | **[cgv-onprem](https://github.com/sss654654/cgv-onprem)** | 애플리케이션. queue(Go) · booking(Java/Spring)을 Kafka로 격리한 대기열 MSA |
 
-구축 과정은 [블로그](https://zed6740.tistory.com/category/HomeLab)에 편별로 적고 있습니다 — 현재 16편.
+구축 과정은 [블로그](https://zed6740.tistory.com/category/HomeLab)에 편별로 적고 있습니다 — 현재 17편.
 
 ---
 
